@@ -1,1 +1,1 @@
-# mage-Text-Extraction-AI
+# image-Text-Extraction-AI
