@@ -20,5 +20,7 @@ Click below link to deploy the app to DigitalOcean* App platform:
 
 
 References: 
--one click deployment to DigitalOcean: https://cloud.digitalocean.com/apps/new?repo=https://github.com/codingforentrepreneurs/FastAPI-Microservice-for-Django/tree/main# 
+-one click deployment to DigitalOcean: https://cloud.digitalocean.com/apps/new?repo=https://github.com/codingforentrepreneurs/FastAPI-Microservice-for-Django/tree/main#
+
+
 -creating the microservice: https://www.youtube.com/watch?v=JxH7cdDCFwE&t=4628s
