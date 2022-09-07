@@ -18,4 +18,4 @@ here are the list of packages uses in the project:
 References: 
 
 
--creating the microservice: https://www.youtube.com/watch?v=JxH7cdDCFwE&t=4628s shout out to CFE for absolutely awesome tutorial!
+Shout out to CFE-youtube for absolutely awesome introduction to microservices!
